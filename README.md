@@ -15,7 +15,7 @@ Structure of the repository:
 # Credits:
 
 - https://github.com/google/mediapipe
-- https://google.github.io/mediapipe/solutions/pose#resources
+- https://google.github.io/mediapipe/solutions/pose
 - https://jaantollander.com/post/noise-filtering-using-one-euro-filter/
 - https://pytorch.org/hub/intelisl_midas_v2/
 - https://learnopencv.com/optical-flow-in-opencv/
