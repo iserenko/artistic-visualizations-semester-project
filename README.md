@@ -9,7 +9,7 @@ Structure of the repository:
 
 - `drawing_utils_mine.py` and `drawing_styles_mine.py` are the helper files for creating the final output skeleton video. These files are the modified versions of `drawing_utils.py` and `drawing_styles.py` taken from the MediaPipe model setup (https://github.com/google/mediapipe/tree/master/mediapipe/python/solutions);
 
-- `Additional_notebooks` folder contains notebooks created during the features extraction step of the project: `Optical_Flow_.ipynb` and `Optical_flow_RAFT.ipynb` demostrate 2 different approaches to estimate the optical flow (classical algorithms and machine learning), `MiDaS.ipynb` is an attempt to estimate depth of each frame using MiDaS model (https://pytorch.org/hub/intelisl_midas_v2/)
+- `Additional_notebooks` folder contains notebooks created during the features extraction step of the project: `Optical_Flow_.ipynb` and `Optical_flow_RAFT.ipynb` demostrate 2 different approaches to estimate the optical flow (classical algorithms and machine learning), `MiDaS.ipynb` is an attempt to estimate depth of each frame using MiDaS model (https://pytorch.org/hub/intelisl_midas_v2/), `Coordinates_data_analysis.ipynb` contains the analysis of landmarks coordinates obtained with the MediaPipe Pose model for the testing set consisting of one video from each edition of the Prix de Lausanne.
 
 
 # Credits:
