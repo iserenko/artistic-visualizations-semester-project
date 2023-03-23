@@ -1,5 +1,5 @@
 # Computational Augmentation of Dance Videos through Artistic Renderings
-This repository contains code for the semester project "Computational Augmentation of Dance Videos through Artistic Renderings" done by Irina Serenko at eM+ lab, EPFL in 2022.
+This repository contains code for the semester project "Computational Augmentation of Dance Videos through Artistic Renderings" done by Irina Serenko at eM+ lab, EPFL in 2022. Data used in this project is protected by NDA and not shared.
 
 Structure of the repository:
 
